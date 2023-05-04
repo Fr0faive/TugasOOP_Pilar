@@ -14,4 +14,4 @@ Repository ini dibuat bertujuan untuk memenuhi salah satu tugas Mata Kuliah Pemr
 - Abstract
 
 ## Sosial Media
-- ![Facebook](www.facebook.com/FaikarMochT)
+- ![Facebook](https://www.facebook.com/FaikarMochT)
