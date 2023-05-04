@@ -12,3 +12,6 @@ Repository ini dibuat bertujuan untuk memenuhi salah satu tugas Mata Kuliah Pemr
 
 - Inheritance
 - Abstract
+
+## Sosial Media
+- ![Facebook](www.facebook.com/FaikarMochT)
